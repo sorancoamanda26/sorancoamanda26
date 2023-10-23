@@ -4,4 +4,4 @@
 
 - Estou cursando o ensino médio
 - Sou iniciante na programação
-- Estudo na Alura Plus
+- Estudo na Alura 
